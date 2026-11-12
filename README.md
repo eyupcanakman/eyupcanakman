@@ -38,4 +38,3 @@ The rest is spread over [nomad](https://github.com/hashicorp/nomad/pulls?q=is%3A
 - [gsc-mcp-rs](https://github.com/eyupcanakman/gsc-mcp-rs) is a Google Search Console MCP server in Rust, published on [crates.io](https://crates.io/crates/gsc-mcp-rs).
 - [simple-html-dom](https://github.com/eyupcanakman/simple_html_dom) is my maintained fork of voku's HTML DOM parser for PHP, published on [Packagist](https://packagist.org/packages/eyupcanakman/simple-html-dom).
 - [htmlawed](https://github.com/eyupcanakman/htmlawed) is htmLawed packaged for PHP 8.4 and later, also on [Packagist](https://packagist.org/packages/eyupcanakman/htmlawed).
-- The [ecosystem simulation](https://eyupcanakman.com/sim/) on my site runs in Rust and WebAssembly and draws with WebGPU.
