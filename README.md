@@ -1,6 +1,6 @@
 # Eyüp Can Akman
 
-I'm the technical lead at [Evrim Ağacı](https://evrimagaci.org), a Turkish popular science platform with millions of readers a month.
+I'm the technical lead at [Evrim Ağacı](https://evrimagaci.org), a Turkish popular science platform with millions of readers.
 I also co-founded [Kreosus](https://kreosus.com), where supporters fund independent creators.
 Most of what I build is payment systems and marketplaces, plus the servers they run on.
 There is more about that on [eyupcanakman.com](https://eyupcanakman.com).
